@@ -1,0 +1,6 @@
+source :rubygems
+
+group :test do
+    gem 'cucumber', '~> 7.1'
+    gem 'rspec-expectations'
+end
